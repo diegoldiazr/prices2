@@ -1,2 +1,9 @@
 # prices2
-Nueva version 2.0 de la app prices  desarrollada con django
+Nueva version 2.0 de la app prices  desarrollada con django.
+
+se compone de las aplicaciones:
+* gestionTiendas -> gestion de las tiendas disponibles
+* gestionArticulos -> gestion de los articulos disponibles
+* gestionClientes -> gestion de los usuarios/clientes que haran las compras
+* gestionPrecios -> gestion de los precios de los articulos en las tiendas que correspondan
+* gestionListaCompra -> gestion de las listas de la compra con los articulos que desean los clientes
