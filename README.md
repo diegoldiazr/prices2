@@ -19,3 +19,9 @@ python manage.py check gestionListaCompra
 
 - creacion de la base de datos
 python manage.py makemigrations
+
+- creacion de la sql de la base de datos
+python manage.py sqlmigrate gestionListaCompra 0001
+
+- y para finalizar
+python manage.py migrate
